@@ -1,0 +1,19 @@
+tensorflow
+# torch
+numpy
+dvc
+notebook
+matplotlib
+seaborn
+python.box==6.0.2
+pyYAML          #read yaml files
+tqdm            #for creat the progress bar
+ensure==1.0.2   #library for help in writing expressive and consist and readble python code
+joblib          # creating lightweight pipelines
+types_pyYAML
+scipy
+Flask
+Flask-Cors
+
+# for running in setup.py
+-e .
